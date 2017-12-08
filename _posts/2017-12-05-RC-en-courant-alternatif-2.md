@@ -23,7 +23,7 @@ Au bout d'un moment, le déclic se fait sur la subtilité qu'il faut comprendre 
 
 Après recherche, ceci correspond alors à ce type de schéma :
 
-![Alt][3]
+![filtres](https://github.com/conurb/BoardEl/blob/master/img/filtres-pb-ph.png)
 
 
 
@@ -31,4 +31,3 @@ Après recherche, ceci correspond alors à ce type de schéma :
 
 [1]: https://www.youtube.com/playlist?list=PLu-QLFNiuxva1LY5CyBa7UJBZkIh5bi_G
 [2]: https://www.youtube.com/watch?v=E1-M3a2ZbUk
-[3]: /img/filtres-pb-ph.png "Filtres passe-bas et passe-haut"
