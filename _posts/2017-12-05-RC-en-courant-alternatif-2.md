@@ -31,4 +31,4 @@ Après recherche, ceci correspond alors à ce type de schéma :
 
 [1]: https://www.youtube.com/playlist?list=PLu-QLFNiuxva1LY5CyBa7UJBZkIh5bi_G
 [2]: https://www.youtube.com/watch?v=E1-M3a2ZbUk
-[3]: /assets/img/filtres-pb-ph.png "Filtres"
+[3]: assets/img/filtres-pb-ph.png "Filtres"
