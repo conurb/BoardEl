@@ -2,9 +2,13 @@
 layout: post
 title: Gain dB - Pourquoi utiliser 20log pour la tension et l'intensité ?
 ---
-
+<
+script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 # Gain dB - Pourquoi utilise-t-on 20log pour la tension et l'intensité ?
 
+\\( sin(x^2) \\)
 $$a^2 + b^2 = c^2$$
 
 Avec cette histoire de filtres passe-bas et passe-haut, ce n'est pas un lièvre qui a été levé mais tout le terrier. J'y reviendrai plus tard le temps de mettre mes idées au clair mais, en étudiant les filtres, on utilise 20log pour déterminer le gain. 
