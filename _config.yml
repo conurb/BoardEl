@@ -2,7 +2,7 @@ title: BoardEl
 description: Voyage au pays de l'électronique
 show_downloads: false
 theme: minima
-markdown: kramdown
+markdown: redcarpet
 defaults:
   - scope:
       path: "assets/img"
