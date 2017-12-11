@@ -11,7 +11,6 @@ Un dB mesure un accroissement entre 2 valeurs. Si on a 2 puissances P₁ et P₂
 Pour comprendre, imaginons une résistance R et qu'on fasse varier la tension (on passe par exemple de U₁ à U₂).
 En tension, d'après la loi d'Ohm, les 2 puissances correspondantes peuvent s'écrire :
 ```
-$$P₁ = U₁^2/R$$
 P₁ = U₁²/R
 P₂ = U₂²/R
 P₂/P₁ = U₂²/U₁² = (U₂/U₁)²
