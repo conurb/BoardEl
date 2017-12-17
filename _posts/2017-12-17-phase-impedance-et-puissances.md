@@ -122,7 +122,7 @@ Ces différentes puissances forment un triangle dans le plan complexe dont on pe
 
 [Le facteur de puissance][9] est le fameux cos(φ) où φ est l'angle de notre triangle des puissances entre la puissance apparente et la puissance active. C'est le ratio de la puissance utile (puissance active) sur la puissance totale (puissance apparente) (```P/S```).
 
-On comprendra aisément que le but du jeu est d'obtenir un cos(φ) le plus proche possible de 1 pour de minimiser l'utilisation du courant à des fins de puissance réactive. Mathématiquement, la chasse à la partie imaginaire est ouverte.
+On comprendra aisément que le but du jeu est d'obtenir un cos(φ) le plus proche possible de 1 afin de minimiser l'utilisation du courant pour de la puissance réactive. Mathématiquement, la chasse à la partie imaginaire est ouverte.
 
 Pour finir, un [petit dessin animé][10] d'un autre âge sur le sujet ;)
 
