@@ -104,7 +104,7 @@ La partie imaginaire représente la puissance réactive générée par les induc
 Q = XI²
 ```
 
-## Puissance apparente
+### Puissance apparente
 
 C'est la puissance qui représente la somme (au sens pythagoricien du terme) des 2 autres puissances. Elle se base donc sur Z (l'impédance), s'exprime en volt-ampère (VA) et s'appelle S.
 
