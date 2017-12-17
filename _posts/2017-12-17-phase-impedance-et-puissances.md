@@ -86,7 +86,7 @@ L'impédance, suivant le dipôle (composant), déphase ou non le courant par rap
 
 Ainsi une bobine ou un condensateur ne génère aucune puissance active mais uniquement de la puissance réactive alors que ce sera l'inverse pour une résistance. La puissance d'un circuit composé de ces types de composants aura bien évidemment une partie de puissance active et une partie de puissance réactive.
 
-Évidemment, pour un circuit, si on cherche de la puissance active, celle qu'on recherche généralement, on va faire la chasse à la partie imaginaire (puissance réactive) consommatrice inutile de courant, ce qui correspond à augmenter le fameux cos(φ).
+Évidemment, pour un circuit, si on cherche de la puissance active, celle qu'on recherche généralement, on va faire la chasse à la partie imaginaire (puissance réactive) consommatrice inutile de courant, ce qui correspond à chercher à maximiser le fameux cos(φ).
 
 ### Puissance active
 
