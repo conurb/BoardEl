@@ -75,7 +75,7 @@ Il n'y a pas non plus de partie réelle, l'impédance d'un condensateur est ```Z
 
 Si on ne se préoccupe que de la partie imaginaire, ce qu'on appelle la réactance capacitive pour un condensateur (```1/ωC```), on voit bien qu'elle est inversement proportionnelle à la fréquence. Plus la fréquence est faible, plus la résistance ou son opposition au courant est forte.
 
-Concernant ```j```, rotation de -90° de l'impédance, donc déphasage de +90° du courant par rapport à la tension.
+Concernant ```-j```, rotation de -90° de l'impédance, donc déphasage de +90° du courant par rapport à la tension.
 
 #### Gros aparté
 En électricité, je me rends compte qu'il est très difficile de savoir quoi provoque quoi. C'est un peu perpétuellement l'histoire de l'oeuf et de la poule. La loi d'Ohm ```U = ZI``` qui est une loi que je qualifierais d'équation instantanée n'aide absolument pas à différencier la cause de la conséquence. Dans le cas d'une bobine, ma sensation 'mathématique' sur le sujet est que c'est la tension qui détermine le courant. À contrario, pour un condensateur, j'aurais tendance à penser que c'est le courant qui détermine la tension. Mathématiquement, l'intuition que j'ai (ou plutôt que je m'en fais), c'est qu'une intégrale est plus que souvent la cause et la dérivée une conséquence et si je regarde ```U = L dI/dt``` pour une bobine ou ```I = C dU/dt``` pour un condensateur, c'est ce que j'en tire comme conclusions personnelles.
