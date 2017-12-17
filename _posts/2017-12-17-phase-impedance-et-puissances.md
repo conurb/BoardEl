@@ -13,11 +13,15 @@ Petit débriefing sur ce que j'ai compris. Je rappelle que je suis un gros noob 
 
 ### Cas d'une résistance
 
+![R POWER][11]
+
 Imaginons une résistance toute seule dans un circuit. Il n'y a pas de décalage de phase entre la tension et l'intensité au niveau d'une résistance. Les courbes respectives de la tension et de l'intensité coupent l'axe des abscisses en même temps. La tension et l'intensité ont ainsi tout le temps le même signe puisqu'en phase. Le résultat est une sinusoïde de la puissance qui est tout le temps positive (```P=UI```).
 
 Il y a bien génération de puissance et, pour une résistance, la dissipation de la puissance générée se manifeste sous forme de chaleur (effet Joule).
 
 ### Cas d'une bobine
+
+![L POWER][12]
 
 Imaginons un circuit avec une bobine seule. La phase est alors décalée de 90° et la tension devance l'intensité. Lorsque la tension et l'intensité sont de même signe, la puissance est positive mais lorsque la tension et l'intensité sont de signes opposés, on obtient une puissance équivalente négative. Au final, cela signifie que la puissance est tour à tour consommée et retournée à la source.
 
@@ -137,3 +141,5 @@ Pour finir, un [petit dessin animé][10] d'un autre âge sur le sujet ;)
 [8]: https://fr.wikipedia.org/wiki/Watt
 [9]: https://fr.wikipedia.org/wiki/Facteur_de_puissance
 [10]: https://www.youtube.com/watch?v=IURKavCBUkE
+[11]: https://conurb.github.io/BoardEl/assets/img/rpower.png "R Power"
+[12]: https://conurb.github.io/BoardEl/assets/img/lpower.png "L Power"
